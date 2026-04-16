@@ -18,6 +18,10 @@ export const metadata: Metadata = {
   description:
     "Pay airtime, data, utilities and more using STX tokens on the Stacks blockchain. Transparent, immutable, and non-custodial.",
   keywords: ["TrustBill", "Stacks", "STX", "blockchain", "bill payment", "DeFi", "Africa"],
+  other: {
+    "talentapp:project_verification":
+      "661b7309bb3b19b0aafa96fc8ebc91ba9a04a7501da64d23e18092dec0971fde917884b13bc70819267f915120fc0bba5956ea3858f4ec6c9a8eaae03c335aae",
+  },
 };
 
 export default function RootLayout({
